@@ -214,7 +214,7 @@
 		<script src="js/jquery.zoom.min.js"></script>
 		<script src="js/main.js"></script>
 		<script>
-			var TIMEOUT = 3000;
+			var TIMEOUT = 4000;
 			var interval = setInterval(handleNext, TIMEOUT);
 			function handleNext() {
   			var $radios = $('input[class*="slide-radio"]');
