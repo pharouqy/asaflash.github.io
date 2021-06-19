@@ -3291,7 +3291,7 @@ label.width-label {
 
 /* table RMA */
 
-input#reference_name1, input#reference_name2, input#reference_name3, input#reference_name4, input#reference_name5, input#article_name1, input#article_name2, input#article_name3, input#article_name4, input#article_name5, input#quantite_name1, input#quantite_name2, input#quantite_name3, input#quantite_name4, input#quantite_name5 {
+input#reference_name1, input#reference_name2, input#reference_name3, input#reference_name4, input#reference_name5, input#article_name1, input#article_name2, input#article_name3, input#article_name4, input#article_name5, input#quantite_name1, input#quantite_name2, input#quantite_name3, input#quantite_name4, input#quantite_name5, select {
     box-shadow: 5px 5px 25px 0px;
 }
 
