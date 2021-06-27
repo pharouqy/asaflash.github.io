@@ -231,6 +231,62 @@
               </div>
             </div>
             <!-- /product -->
+            						<!-- product -->
+						<div class="col-md-4 col-xs-6">
+              <div class="product">
+                <div class="product-img">
+                  <img src="./img/_MG_9433.jpg" alt="">
+                  <div class="product-label">
+                    <span class="new">Nouveau</span>
+                  </div>
+                </div>
+                <div class="product-body">
+                  <p class="product-category">Souris</p>
+                  <h3 class="product-name">
+                    <a href="http://asaflash.com/souris-sans-fil-new.php">Souris Optique Sans Fil C</a>
+                  </h3>
+                  <div class="product-rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                  </div>
+                </div>
+                <div class="add-to-cart">
+                  <a href="http://asaflash.com/souris-sans-fil-new.php" class="buy-now-btn">Détail</a>
+                </div>
+              </div>
+            </div>
+            <!-- /product -->
+            <!-- product -->
+            <div class="col-md-4 col-xs-6">
+              <div class="product">
+                <div class="product-img">
+                  <img src="./img/_MG_9437.jpg" alt="">
+                  <div class="product-label">
+                    <span class="new">Nouveau</span>
+                  </div>
+                </div>
+                <div class="product-body">
+                  <p class="product-category">Souris</p>
+                  <h3 class="product-name">
+                    <a href="http://asaflash.com/souris-filaire-new.php">Souris Optique Filaire C</a>
+                  </h3>
+                  <div class="product-rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                  </div>
+                </div>
+                <div class="add-to-cart">
+                  <a href="http://asaflash.com/souris-filaire-new.php" class="buy-now-btn">Détail</a>
+                </div>
+              </div>
+            </div>
+            <!-- /product -->
           </div>
           <!-- /store products -->
           <!-- store bottom filter -->

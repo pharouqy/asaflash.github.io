@@ -194,13 +194,13 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
 								<li>Email: <span>commercial@digiuslinkalgeria.net</span></li>
 							</ul>
 						</div>
-						<div class="contact_info_section">
+						<!--<div class="contact_info_section">
 							<div class="contact_info_title">Ressources humaines</div>
 							<ul>
 								<li>Phone: <span>+213 (0)561 690 345</span></li>
 								<li>Email: <span>hr@digiuslinkalgeria.net</span></li>
 							</ul>
-						</div>
+						</div>-->
 					</div>
 				</div>
 			</div>

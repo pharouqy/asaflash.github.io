@@ -54,7 +54,7 @@
 							<li><a href="https://asaflash.com">Accueil</a></li>
 							<li><a href="produits.php">Produits</a></li>
 							<li><a href="produits.php#cable-usb">Catégories</a></li>
-							<li class="active">CÂBLE USB LUNA IPHONE TYPE C</li>
+							<li class="active">CÂBLE USB LUNA, IPHONE, TYPE C</li>
 						</ul>
 					</div>
 				</div>
@@ -71,29 +71,31 @@
 				<!-- row -->
 				<div class="row">
 					<!-- Product main img -->
+					<div class="col-md-2">
+					</div>
 					<div class="col-md-4">
 						<div id="product-main-img">
 							<div class="product-preview">
-								<img src="./img/CABLE_LUNA_FENETRE_1.jpg" alt="">
+								<img src="./img/cable.jpg" alt="">
 							</div>
 						</div>
 					</div>
 					<!-- /Product main img -->
 										<!-- Product main img -->
-					<div class="col-md-4">
+					<!--<div class="col-md-4">
 						<div id="product-main-img">
 							<div class="product-preview">
 								<img src="./img/CABLE_LUNA_FENETRE_2.jpg" alt="">
 							</div>
 						</div>
-					</div>
+					</div>-->
 					<!-- /Product main img -->
 
 
 					<!-- Product details -->
 					<div class="col-md-4">
 						<div class="product-details">
-							<h2 class="product-name">CÂBLE USB LUNA IPHONE TYPE C</h2>
+							<h2 class="product-name">CÂBLE USB LUNA, IPHONE, TYPE C</h2>
 							<h4 class="size-title">CBL1MV MODEL</h4>
 							<div>
 								<div class="product-rating">
