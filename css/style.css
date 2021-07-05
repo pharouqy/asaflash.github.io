@@ -3130,8 +3130,7 @@ h1.title-change {
     height: 100%;
     min-height: 1px;
 }
-[dir='rtl'] .slick-slide
-{
+[dir='rtl'] .slick-slide {
     float: right;
 }
 .slick-slide img
@@ -3291,7 +3290,7 @@ label.width-label {
 
 /* table RMA */
 
-input#reference_name1, input#reference_name2, input#reference_name3, input#reference_name4, input#reference_name5, input#article_name1, input#article_name2, input#article_name3, input#article_name4, input#article_name5, input#quantite_name1, input#quantite_name2, input#quantite_name3, input#quantite_name4, input#quantite_name5, select {
+input#reference_name1, input#reference_name2, input#reference_name3, input#reference_name4, input#reference_name5, input#article_name1, input#article_name2, input#article_name3, input#article_name4, input#article_name5, input#quantite_name1, input#quantite_name2, input#quantite_name3, input#quantite_name4, input#quantite_name5, select, .contact_input {
     box-shadow: 5px 5px 25px 0px;
 }
 
